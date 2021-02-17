@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    font-family: verdana;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #img-div {
+    text-align: center;
+  }
