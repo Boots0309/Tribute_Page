@@ -3,10 +3,15 @@
     font-family: verdana;
   }
   
-  h1 {
+  #title {
     text-align: center;
+    background-color: lightgray;
   }
   
   #img-div {
     text-align: center;
+  }
+
+  #tribute-info {
+    /* text-align: center; */
   }
