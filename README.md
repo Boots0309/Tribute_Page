@@ -3,8 +3,8 @@
 1. You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
 
 #Content
-1. My tribute page should have an element with corresponding id="main", which contains all other elements.
-2. I should see an element with corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").137ms
+1. My tribute page should have an element with corresponding id="main", which contains all other elements.<!-- done -->
+2. I should see an element with corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").137ms<!-- done -->
 3. I should see either a <figure> or <div> element with corresponding id="img-div".
 4. Within the "img-div" element, I should see an <img> element with a corresponding id="image".
 5. Within the "img-div" element, I should see either a <figcaption> or <div> element with a corresponding id="img-caption" that contains textual content describing the image shown in "img-div".
