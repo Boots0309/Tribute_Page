@@ -20,5 +20,20 @@ p {
   display: block;
   margin-right: auto;
   margin-left: auto;
+  text-align: center;
 }
+
+h3 {
+  text-align: center;
+}
+
+ul {
+  line-height: 1.6;
+  padding: 10px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+li {
+  padding: 5px;
 }
